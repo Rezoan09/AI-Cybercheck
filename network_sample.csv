@@ -1,0 +1,5 @@
+Flow_Duration,Total_Fwd_Packets,Total_Bwd_Packets,Fwd_Packet_Length_Mean,Bwd_Packet_Length_Mean,Flow_Bytes_s,Label
+800,8,6,350,340,9000,BENIGN
+1500,12,9,420,390,12000,DoS
+2200,5,3,300,280,8000,BENIGN
+6000,30,28,700,680,30000,PortScan
